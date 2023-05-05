@@ -4,7 +4,7 @@ This is a rough first draft of a professional portfolio that will be updated in 
 
 Click here for Live site 
 
-http://localhost:52330/index.html
+https://stevierae.github.io/Professional-Portfolio-/
 
 License 
 
